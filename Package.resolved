@@ -18,24 +18,6 @@
           "revision": "c228db5d2ad1b01ebc84435e823e6cca4e3db98b",
           "version": "1.2.0"
         }
-      },
-      {
-        "package": "Nimble",
-        "repositoryURL": "https://github.com/Quick/Nimble",
-        "state": {
-          "branch": null,
-          "revision": "b02b00b30b6353632aa4a5fb6124f8147f7140c0",
-          "version": "8.0.5"
-        }
-      },
-      {
-        "package": "Quick",
-        "repositoryURL": "https://github.com/Quick/Quick",
-        "state": {
-          "branch": null,
-          "revision": "33682c2f6230c60614861dfc61df267e11a1602f",
-          "version": "2.2.0"
-        }
       }
     ]
   },
