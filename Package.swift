@@ -11,10 +11,6 @@ let package = Package(
             targets: ["Resolver"]
         ),
     ],
-    dependencies: [
-        .package(url: "https://github.com/Quick/Quick", from: "2.2.0"),
-        .package(url: "https://github.com/Quick/Nimble", from: "8.0.0"),
-    ],
     targets: [
         .target(
             name: "Resolver"
